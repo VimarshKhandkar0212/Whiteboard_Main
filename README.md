@@ -69,7 +69,24 @@ npm install
 npm start
 The React app will run on http://localhost:3000
 
-
-fine_tune_bart.py file: https://drive.google.com/file/d/16WzDagBPXX2xHkpPSyFf2UPWDkfbhBun/view?usp=sharing
-fine_tune_trocr.py file: https://drive.google.com/file/d/1Qrmn_sotPxV7D0pLrrM6RKt5XpFoS-GU/view?usp=sharing
-fine_tune_vitgpt2.py file: https://drive.google.com/file/d/1mVLlbIS8pU7uMUW3R1KHGg1UegQrVRjH/view?usp=sharing
+Backend:
+ml_models:
+  captions.py: https://drive.google.com/file/d/1h5s_01Vppbdkug6Rwf1wjT4g0C3VnnaU/view?usp=sharing
+  fine_tune_bart.py file: https://drive.google.com/file/d/16WzDagBPXX2xHkpPSyFf2UPWDkfbhBun/view?usp=sharing
+  fine_tune_trocr.py file: https://drive.google.com/file/d/1Qrmn_sotPxV7D0pLrrM6RKt5XpFoS-GU/view?usp=sharing
+  fine_tune_vitgpt2.py file: https://drive.google.com/file/d/1mVLlbIS8pU7uMUW3R1KHGg1UegQrVRjH/view?usp=sharing
+  summarizer.py: https://drive.google.com/file/d/1uxwqFVGZlbolQaBVJ5or_Y1WlUb07PKq/view?usp=sharing
+  trOCR.py: https://drive.google.com/file/d/1gcy4kSlswkBqgvLfLI0KyjjS-ixlCMw1/view?usp=sharing
+app.py: https://drive.google.com/file/d/1P-_hTzC32wBATDB9wWYtKZ5a10E9omH6/view?usp=sharing
+config.py: https://drive.google.com/file/d/1dl_0vC20_NkLRa-Rsuy_fb4Xh9U2mKul/view?usp=sharing
+Frontend:
+src:
+  components: 
+    PreviewPanel.jsx: https://drive.google.com/file/d/1iyF0JQL8FumljjKHJHdR_w4NPDp8VgJq/view?usp=sharing
+    SlidesPanel.jsx: https://drive.google.com/file/d/1eZjfqYgxF6g-jdZDxDVHkKSe78gLEeZ2/view?usp=sharing
+    Toolbar.jsx: https://drive.google.com/file/d/1tiqLa3H-8t4eRudX1GF6Nk2RKa-scosD/view?usp=sharing
+    Whiteboard.jsx: https://drive.google.com/file/d/1tiqLa3H-8t4eRudX1GF6Nk2RKa-scosD/view?usp=sharing
+api.js: https://drive.google.com/file/d/1jlIqNbMB-vuYSPnf8GWlIC769wQEGsy8/view?usp=sharing
+app.jsx: https://drive.google.com/file/d/1q0MfQLTmao2hdurDOfuJEcjFNrCP0cgs/view?usp=sharing
+main.jsx: https://drive.google.com/file/d/1wub2CRuhvd7di1BTj6wVLpZvhefjW3KI/view?usp=sharing
+styles.css: https://drive.google.com/file/d/17Y56kJIgHCDK1865Ayu3wnAlFS6Wvnhm/view?usp=sharing
