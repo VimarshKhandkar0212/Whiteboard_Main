@@ -68,3 +68,7 @@ cd frontend
 npm install
 npm start
 The React app will run on http://localhost:3000
+
+
+fine_tune_bart.py file: https://drive.google.com/file/d/16WzDagBPXX2xHkpPSyFf2UPWDkfbhBun/view?usp=sharing
+
