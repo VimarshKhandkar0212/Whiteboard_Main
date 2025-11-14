@@ -71,4 +71,5 @@ The React app will run on http://localhost:3000
 
 
 fine_tune_bart.py file: https://drive.google.com/file/d/16WzDagBPXX2xHkpPSyFf2UPWDkfbhBun/view?usp=sharing
-
+fine_tune_trocr.py file: https://drive.google.com/file/d/1Qrmn_sotPxV7D0pLrrM6RKt5XpFoS-GU/view?usp=sharing
+fine_tune_vitgpt2.py file: https://drive.google.com/file/d/1mVLlbIS8pU7uMUW3R1KHGg1UegQrVRjH/view?usp=sharing
